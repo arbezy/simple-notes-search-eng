@@ -4,4 +4,6 @@ Quite a simple search engine that I made v quickly, to search through the deluge
 
 Wrote this a year ago, just uploading it now in case I want to come back and improve it later.
 
-Todo: originally planned on writing a simple stemmer, but never got round to it...
+Todo: 
+- originally planned on writing a simple stemmer, but never got round to it...
+- also had a toy with fuzzy search, but didn't manage to get it working the way I wanted
